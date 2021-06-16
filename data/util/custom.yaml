@@ -3,6 +3,5 @@ val: /content/car_dataset/images/train/
 
 # number of classes
 nc : 2
-
 # class names
 names : ['ambulance', 'firetruck']
